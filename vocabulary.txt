@@ -1,0 +1,12 @@
+condense into : ~로 압축하다
+accrue : 생기다, 얻어지다
+accumulation : 축적, 축적물
+account : 계산
+cat: 고양이
+apple: 사과
+church: 교회
+temple: 절
+wallet: 지갑
+backpack: 책가방
+soap: 비누
+bicycle: 자전거
